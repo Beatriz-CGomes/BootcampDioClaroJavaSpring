@@ -1,5 +1,5 @@
 package moduloII.estruturaExcecoes;
-
+/*
 public class ExececaoPersonalizadaMain {
     public static void main(String[] args) {
         try {
@@ -16,3 +16,4 @@ public class ExececaoPersonalizadaMain {
         }
     }
 
+*/

@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad125239-8592-4eaa-992c-5a162b736c11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaCondicional/CondicionalComposta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaCondicional/CondicionalEncadeada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaCondicional/CondicionalSimples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaCondicional/CondicionalTernaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaCondicional/ExercicioSwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaCondicional/SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaExcecoes/Aula_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaExcecoes/ExcecaoPersonalizada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaExcecoes/ExececaoPersonalizadaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaExcecoes/Hierarquia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaRepeticao/Aula_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaRepeticao/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moduloII/estruturaRepeticao/ForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/controleCandidato/application/ProcessoSeletivo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moduloII/estruturaExcecoes/ExececaoPersonalizadaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moduloII/estruturaExcecoes/ExececaoPersonalizadaMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +49,7 @@
     "Application.ExercicioSwitchCase.executor": "Run",
     "Application.ForArray.executor": "Run",
     "Application.Hierarquia.executor": "Run",
+    "Application.ProcessoSeletivo.executor": "Run",
     "Application.SwitchCase.executor": "Debug",
     "Application.While.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -76,20 +65,7 @@
     "onboarding.tips.debug.path": "C:/Users/User/Downloads/BootcampClaroDioJavaSpring/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExececaoPersonalizadaMain">
-    <configuration name="Aula_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="moduloII.estruturaRepeticao.Aula_1" />
-      <module name="BootcampClaroDioJavaSpring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="moduloII.estruturaRepeticao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProcessoSeletivo">
     <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moduloII.estruturaRepeticao.BreakAndContinue" />
       <module name="BootcampClaroDioJavaSpring" />
@@ -129,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProcessoSeletivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.controleCandidato.application.ProcessoSeletivo" />
+      <module name="BootcampClaroDioJavaSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafios.controleCandidato.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moduloII.estruturaRepeticao.While" />
       <module name="BootcampClaroDioJavaSpring" />
@@ -144,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProcessoSeletivo" />
         <item itemvalue="Application.ExececaoPersonalizadaMain" />
         <item itemvalue="Application.Hierarquia" />
         <item itemvalue="Application.While" />
         <item itemvalue="Application.BreakAndContinue" />
-        <item itemvalue="Application.Aula_1" />
       </list>
     </recent_temporary>
   </component>
