@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad125239-8592-4eaa-992c-5a162b736c11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/desafios/controleCandidato/application/ProcessoSeletivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/iphone/application/IphoneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/iphone/model/AparelhoTelefonico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/iphone/model/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/iphone/model/NavegadorInternet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/iphone/model/ReprodutorMusical.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moduloII/estruturaExcecoes/ExececaoPersonalizadaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moduloII/estruturaExcecoes/ExececaoPersonalizadaMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +53,7 @@
     "Application.ExercicioSwitchCase.executor": "Run",
     "Application.ForArray.executor": "Run",
     "Application.Hierarquia.executor": "Run",
+    "Application.IphoneMain.executor": "Run",
     "Application.ProcessoSeletivo.executor": "Run",
     "Application.SwitchCase.executor": "Debug",
     "Application.While.executor": "Run",
@@ -65,20 +70,7 @@
     "onboarding.tips.debug.path": "C:/Users/User/Downloads/BootcampClaroDioJavaSpring/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ProcessoSeletivo">
-    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="moduloII.estruturaRepeticao.BreakAndContinue" />
-      <module name="BootcampClaroDioJavaSpring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="moduloII.estruturaRepeticao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IphoneMain">
     <configuration name="ExececaoPersonalizadaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="moduloII.estruturaExcecoes.ExececaoPersonalizadaMain" />
       <module name="BootcampClaroDioJavaSpring" />
@@ -98,6 +90,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="moduloII.estruturaExcecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IphoneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.iphone.application.IphoneMain" />
+      <module name="BootcampClaroDioJavaSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafios.iphone.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IphoneMain" />
         <item itemvalue="Application.ProcessoSeletivo" />
         <item itemvalue="Application.ExececaoPersonalizadaMain" />
         <item itemvalue="Application.Hierarquia" />
         <item itemvalue="Application.While" />
-        <item itemvalue="Application.BreakAndContinue" />
       </list>
     </recent_temporary>
   </component>
